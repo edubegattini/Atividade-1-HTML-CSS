@@ -1,0 +1,31 @@
+.div_A {
+background-color: #0066ff;
+width: 700px;
+height: 700px;
+}
+
+.div_B {
+background-color: #ffe600;
+width: 300px;
+height: 210px;
+}
+
+.h_C {
+    color: #00e1ff;
+    background-color: #992a2a;
+    font-size: 55px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+.div_D {
+    width: 30%;
+    height: 30vh;
+    background-color: #2a5255;
+}
+
+.div_E {
+    background-color: #74f100;
+    width: 105vw;
+    height: 115vh;
+}
+
